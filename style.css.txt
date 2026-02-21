@@ -1,0 +1,29 @@
+body{
+background:#0a1f44;
+color:white;
+font-family:Courier New;
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+overflow:hidden;
+}
+
+.window{
+background:#111;
+border:2px solid #6b8dff;
+padding:40px;
+text-align:center;
+box-shadow:0 0 20px #6b8dff;
+}
+
+button{
+margin:10px;
+padding:10px 20px;
+background:#1e3a8a;
+border:none;
+color:white;
+cursor:pointer;
+}
+
+button:hover

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>blue-date.exe</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<audio autoplay loop>
+<source src="music.mp3" type="audio/mpeg">
+</audio>
+
+<div class="window">
+<h1>You received an invitation...</h1>
+
+<p>
+hi habib,<br><br>
+would you go on a date with me<br>
+on your birthday?<br><br>
+— bayi sayang
+</p>
+
+<button id="yesBtn">YES</button> <button id="noBtn">NO</button>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
